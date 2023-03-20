@@ -32,7 +32,9 @@ The target company is the company from which you want to extract information abo
 > If this message is displayed, please click the next page, and then click enter in the console  
 `I could't find the 'next' bottom, please click 'next' and then enter :( `
  
-
-## ingresar al filtro
-## Considerations
+## Expressions of Gratitude 😊
+* Publicly thanks 😊
+* Follow me in [LinkedIn](https://www.linkedin.com/in/edson-lg/)
+* Donate with USDT (Solana Chain) to this address: `2rqXY9bB7HiEJt7ozj35dKE7gU7DNX2723riQmt8z6Hh`
+* Donate with USDT (BNB Smart Chain) to this address `0x3dae29cde0cc13169bc82d573b63eb13016b29a9`
  
