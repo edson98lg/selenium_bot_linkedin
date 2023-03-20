@@ -1,6 +1,6 @@
 # selenium_bot_linkedin
 This code is not intended for webscrapping, but for supervised low-scale information extraction.
-
+  
 ## How to start
 **First you must install the requirements.**
 ```
@@ -17,10 +17,10 @@ The target company is the company from which you want to extract information abo
 1. Go to a profile of someone who has worked at the target company.
 2. Right click on the company logo and then inspect the element.
 3. Find the anchor element <a> in the HTML, and copy the link.
-`"LINKEDIN_TARGET_COMPANY"`
+  
 ## How to use the code properly?
 1. Run the code and wait for login
-> The console will display this message:
+> The console will display this message:  
 `Press Enter when you are in the list of people who work or used to work in the target company.`
 2. Type in the search box the company target
 3. Active "People"
