@@ -1,8 +1,7 @@
 {
     "LINKEDIN_USERNAME": "email",
     "LINKEDIN_PASSWORD": "password",
-    "LINKEDIN_SEARCH": "Capgemini", 
 
-    "LINKEDIN_TARGET_COMPANY":"https://www.linkedin.com/company/157240/",
-    "LINKEDIN_TARGET_COMPANY_OPTIONAL":"https://www.linkedin.com/search/results/all/?keywords=Capgemini"
+    "LINKEDIN_TARGET_COMPANY":"https://www.linkedin.com/company/1035/",
+    "LINKEDIN_TARGET_COMPANY_OPTIONAL":"https://www.linkedin.com/search/results/all/?keywords=Microsoft"
   }
