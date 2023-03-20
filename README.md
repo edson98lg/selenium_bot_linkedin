@@ -6,8 +6,8 @@ First you must install the requirements.
 ```
 pip install -r requirements.txt
 ```
-Second you must provide your credentials in `config.json`.\n
-Additionally, you should know that in the `"LINKEDIN_TARGET_COMPANY"` variable, you should     enter the target company. 
+Second you must provide your credentials in `config.json`.  
+Additionally, you should know that in the `"LINKEDIN_TARGET_COMPANY"` variable, you should enter the target company. 
  The target company is the company from which you want to extract information about its current or former employees.
 > In this example the target company is Microsoft
 ```
