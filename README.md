@@ -20,7 +20,7 @@ The target company is the company from which you want to extract information abo
   
 ## How to use the code properly?
 1. Run the code and wait for login
-> The console will display this message:  
+> The console will display this message:(don't press Enter yet)  
 `Press Enter when you are in the list of people who work or used to work in the target company.`
 2. Type in the search box the company target
 3. Active "People"
@@ -28,6 +28,8 @@ The target company is the company from which you want to extract information abo
 5. Activate the checkboxes of your preferences. (Locations, Current Company, Past Company)
 6. Select "Show Results"
 7. Press Enter
+> If this message is displayed, please click the next page, and then click enter in the console  
+`I could't find the 'next' bottom, please click 'next' and then enter :( `
  
 **
 ## ingresar al filtro
