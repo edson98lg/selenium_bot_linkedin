@@ -405,7 +405,7 @@ print("Loging...")
 print(" ")
 time.sleep(random.uniform(0.1, 0.4))
 
-input("Press enter when you have entered the Linkedin feed.")
+input("Press Enter when you are in the list of people who work or used to work in the target company.")
 
 again = "Y"
 path_main = "/html/body/div[5]/div[3]/div[2]/div/div[1]/main/div/div/div[2]/div/div[2]/div/button[2]"
