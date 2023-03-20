@@ -1,5 +1,6 @@
 # selenium_bot_linkedin
-This code is not intended for webscrapping, but for supervised low-scale information extraction.
+This code is not intended for webscrapping, but for supervised low-scale information extraction.  
+It is important to mention that Linkedin is a very difficult site to implement a bot, because it changes the XPATHS when it detects abnormal patterns.
   
 ## How to start
 **First you must install the requirements.**
@@ -31,7 +32,7 @@ The target company is the company from which you want to extract information abo
 > If this message is displayed, please click the next page, and then click enter in the console  
 `I could't find the 'next' bottom, please click 'next' and then enter :( `
  
-**
+
 ## ingresar al filtro
 ## Considerations
  
