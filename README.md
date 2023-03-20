@@ -1,7 +1,15 @@
-# selenium_bot_linkedin
+  # Selenium Bot Linkedin
 This code is not intended for webscrapping, but for supervised low-scale information extraction.  
 It is important to mention that Linkedin is a very difficult site to implement a bot, because it changes the XPATHS when it detects abnormal patterns.
-  
+ 
+## What does it do?
+This supervised bot has the ability to extract the name, job position, duration of the position, total duration in the target company, company that was left
+*name: the full name registered in linkedin
+*job position: the full name(s) of the position(s) he/she held/holds at [target company] that he/she has registered.
+*duration of the position: duration in months that he/she worked in that position
+*total duration in the target company: duration in months that he/she worked at that company, regardless of the number of positions he held.
+*company that was left: the link of the company he/she left when he/she resigned from the [target company], in case he/she is a current employee, it will be the link of the [target company]
+
 ## How to start
 **First you must install the requirements.**
 ```
