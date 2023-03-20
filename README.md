@@ -42,7 +42,7 @@ The target company is the company from which you want to extract information abo
  
 ## Expressions of Gratitude 😊
 * Publicly thanks 😊
-* Follow me in [LinkedIn](https://www.linkedin.com/in/edson-lg/)
+* Follow me in [LinkedIn](https://www.linkedin.com)
 * Donate with USDT (Solana Chain) to this address: `2rqXY9bB7HiEJt7ozj35dKE7gU7DNX2723riQmt8z6Hh`
 * Donate with USDT (BNB Smart Chain) to this address `0x3dae29cde0cc13169bc82d573b63eb13016b29a9`
  
